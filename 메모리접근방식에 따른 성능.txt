@@ -1,0 +1,7 @@
+http://egloos.zum.com/chanik/v/3959638
+//메모리 접근 패턴에 따른 L1/L2/L3/메모리 latency 변화
+
+
+https://blog.naver.com/PostView.nhn?blogId=techshare&logNo=220968573646&proxyReferer=https%3A%2F%2Fm.search.naver.com%2Fsearch.naver%3Fwhere%3Dm%26query%3D%25EB%25A9%2594%25EB%25AA%25A8%25EB%25A6%25AC%2B%25EC%25A0%2591%25EA%25B7%25BC%25EC%2597%2590%2B%25EB%2594%25B0%25EB%25A5%25B8%2B%25EC%2584%25B1%25EB%258A%25A5%26page%3D3%26start%3D16%26display%3D15%26nso%3D%26sm%3Dmtb_pge
+//상속에 따른 메모리 변화
+
